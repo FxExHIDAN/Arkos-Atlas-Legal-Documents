@@ -11,7 +11,7 @@ Welcome to the repository for **Arkos Atlas**, a comprehensive Discord bot desig
 
 ## 🔗 Invite Arkos Atlas
 
-[ https://discord.com/oauth2/authorize?client_id=1416379485502312448 ]
+[ [https://discord.com/oauth2/authorize?client_id=1416379485502312448](https://discord.com/oauth2/authorize?client_id=1416379485502312448&permissions=8&integration_type=0&scope=applications.commands+bot) ]
 
 ---
 
