@@ -1,6 +1,6 @@
 \# 📜 Terms of Service for Arkos Atlas
 
-\*\*\*Effective Date: \[Insert Date, e.g., December 1, 2025\]\*\*\*
+\*\*\*Effective Date: \[December 1, 2025\]\*\*\*
 
 \### 1. Agreement to Terms
 
@@ -76,5 +76,4 @@ Terms.
 \### 8. Contact Information
 
 \* For any questions regarding these Terms or the Bot, please contact us
-at: \* \*\*Email:\*\* \[Your Contact Email Address\] \* \*\*Support
-Server:\*\* \[Link to Your Bot\'s Support Discord Server\]
+at:\* \*\*Support Server:\*\* \[https://discord.gg/Kz35wn3hrk]
