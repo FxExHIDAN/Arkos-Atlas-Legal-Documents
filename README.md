@@ -1,2 +1,31 @@
-# Arkos-Atlas-Legal-Documents
-Here Are The Terms Of Service And Privacy Policy For The Discord Bot: Arkos Atlas
+# 🤖 Arkos Atlas: The Multi-Function Discord Bot
+
+Welcome to the repository for **Arkos Atlas**, a comprehensive Discord bot designed to bring economy, moderation, fun games, and unique utility features to your server.
+
+## ✨ Features Overview
+
+* **Economy:** Manage currency, banks, jobs, and item inventory.
+* **Moderation:** Advanced logging, warnings, mutes, and ban management.
+* **Utility:** Custom leveling system, temporary voice channels, and customizable daily quotes/memes.
+* **Games:** Slots, coin flips, and more!
+
+## 🔗 Invite Arkos Atlas
+
+[  ]
+
+---
+
+## 📜 Legal & Compliance Documents
+
+For full details on your use of Arkos Atlas and data collection practices, please review the documents below. These links are required for Discord verification.
+
+* **Terms of Service (ToS):** [Read the Full Terms of Service Here](TOS.md)
+* **Privacy Policy:** [Read the Full Privacy Policy Here](PRIVACY.md)
+
+---
+
+## 📞 Support and Contact
+
+For support, bug reports, feature requests, or questions:
+
+* **Support Server:** [https://discord.gg/Kz35wn3hrk ]
