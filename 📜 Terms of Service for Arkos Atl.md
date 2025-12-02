@@ -76,4 +76,4 @@ Terms.
 \### 8. Contact Information
 
 \* For any questions regarding these Terms or the Bot, please contact us
-at:\* \*\*Support Server:\*\* \[https://discord.gg/Kz35wn3hrk]
+at:\* \*\*Support Server:\*\* \[ https://discord.gg/Kz35wn3hrk ]
