@@ -108,7 +108,4 @@ server or by updating the effective date at the top of this policy.
 \### 7. Contact Information
 
 If you have any questions or concerns about this Privacy Policy or your
-data, please contact us:
-
-\* \*\*Email:\*\* \[Your Contact Email Address\] \* \*\*Support
-Server:\*\* \[Link to Your Bot\'s Support Discord Server\]
+data, please contact us: \* \*\*Support Server:\*\* \[ https://discord.gg/Kz35wn3hrk ]
