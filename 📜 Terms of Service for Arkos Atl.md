@@ -6,8 +6,7 @@
 
 \* By inviting the Discord bot \*\*Arkos Atlas\*\* (the \"Bot\") to your
 server, or by interacting with the Bot in any way, you agree to be bound
-by these Terms of Service (\"Terms\") and the accompanying \[Link to
-Your Privacy Policy\] (the \"Privacy Policy\"). \* You also agree to
+by these Terms of Service (\"Terms\") and the accompanying \[ https://github.com/FxExHIDAN/Arkos-Atlas-Legal-Documents/blob/main/%F0%9F%94%92%20Privacy%20Policy%20for%20Arkos%20Atlas.md ] (the \"Privacy Policy\"). \* You also agree to
 comply with the \*\*Discord Terms of Service\*\* and \*\*Discord
 Community Guidelines\*\*. \* If you do not agree with any of these
 terms, you must immediately remove the Bot from all servers you manage
