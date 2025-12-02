@@ -19,8 +19,8 @@ Welcome to the repository for **Arkos Atlas**, a comprehensive Discord bot desig
 
 For full details on your use of Arkos Atlas and data collection practices, please review the documents below. These links are required for Discord verification.
 
-* **Terms of Service (ToS):** [Read the Full Terms of Service Here]( [TOS.md] (https://github.com/FxExHIDAN/Arkos-Atlas-Legal-Documents/blob/main/%F0%9F%93%9C%20Terms%20of%20Service%20for%20Arkos%20Atl.md))
-* **Privacy Policy:** [Read the Full Privacy Policy Here](PRIVACY.md)
+* **Terms of Service (ToS):** [Read the Full Terms of Service Here]( Terms of Service for Arkos Atl.md )
+* **Privacy Policy:** [Read the Full Privacy Policy Here]( Privacy Policy for Arkos Atlas.md )
 
 ---
 
