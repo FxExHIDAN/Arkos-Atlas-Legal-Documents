@@ -1,6 +1,6 @@
 \# 🔒 Privacy Policy for Arkos Atlas
 
-\*\*\*Effective Date: \[Insert Date, e.g., December 1, 2025\]\*\*\*
+\*\*\*Effective Date: \[ December 1, 2025\]\*\*\*
 
 This Privacy Policy describes how the Discord bot \*\*Arkos Atlas\*\*
 (the \"Bot\" or \"Service\") collects, uses, and discloses information
